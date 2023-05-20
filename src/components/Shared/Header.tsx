@@ -41,7 +41,7 @@ const Header: React.FC = () => {
               color='Brand.French'
               fontFamily='Kanit, sans-serif'
             >
-              Sean the Bondsman
+              Bail Bonds Topeka
             </Heading>
           </Flex>
           <Flex
@@ -143,7 +143,7 @@ const Header: React.FC = () => {
               color='Brand.French'
               fontFamily='Kanit, sans-serif'
             >
-              Sean the Bondsman
+              Bail Bonds Topeka
             </Heading>
           </Flex>
           <Stack

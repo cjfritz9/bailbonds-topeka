@@ -14,4 +14,4 @@ Disallow: /author/
 Disallow: /contact-us.html
 Disallow: /payment.html
 Disallow: /privacy.html
-Sitemap: https://seanthebondsman.com/sitemap.xml
+Sitemap: https://bailbondstopeka.com/sitemap.xml
